@@ -26,3 +26,5 @@ Git will print ignored files as deleted.
 ### note.
 
 Ignored files are in the repo, because they were added with `git add -f` command.
+
+Was tested on helix version `25.1 (35317608)`.
