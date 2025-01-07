@@ -1,0 +1,6 @@
+# whitelist gitignore
+*
+!*/
+
+!/empty-file.txt
+!/.gitignore
